@@ -16,9 +16,9 @@
   - [Windows](https://docs.docker.com/desktop/windows/install)
   - [Linux](https://docs.docker.com/engine/install/ubuntu/)
   - [Mac](https://docs.docker.com/desktop/mac/install)
-2. Run command, put your actual url instead of www.abc.com :
+2. Run command, put your actual url instead of www.rt.com :
 ```
-docker run --rm -it nitupkcuf/ddos-ripper:latest www.abc.com
+docker run --rm -it nitupkcuf/ddos-ripper:latest www.rt.com
 ```
 
 # Run from CLI/sources
